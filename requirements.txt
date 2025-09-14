@@ -1,0 +1,5 @@
+python-dotenv
+supabase
+openai
+
+flet >=0.70.0.dev0
